@@ -46,14 +46,15 @@ cd <repo-name>
 # open the PDF (Linux/macOS)
 open sql_course_notes.pdf
 # …or simply click the file in the GitHub UI
+```
 
-
-##  Repository Structure
+## Repo Structure      
 ```text
 .
 ├── sql_course_notes.pdf   # ← main content
 ├── README.md              # you’re reading it 🙂
 └── LICENSE                # MIT by default
-
+```       
+             
 ## License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
